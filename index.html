@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>Attack & Defense — 8 Teams Simulation (Ticks)</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+        <link rel="stylesheet" href="main.css">
+    </head>
+    <body>
+        <canvas id="canvas"></canvas>
+        <div id="console" aria-live="polite"><!-- logs appended below --></div>
+        <div id="scoreboard" aria-live="polite">
+            <h3>Scoreboard</h3>
+            <div id="scores"></div>
+        </div>
+        <div id="tickDisplay" aria-hidden="false">
+            <div id="countdown">20</div>
+            <div>
+                <div style="font-size:11px; color:var(--fg1-color); text-transform: uppercase;">Next tick in</div>
+                <div id="tickNum">Tick: 1</div>
+            </div>
+        </div>
+        <div id="nodes-root"></div>
+        <aside>
+            <button class='btn rotate-vertical'>Attack info</button>
+            <button class='btn rotate-vertical'>Ticks</button>
+            <button class='btn rotate-vertical'>Penalties</button>
+        </aside>
+
+        <script src="main.js"></script>
+    </body>
+</html>
