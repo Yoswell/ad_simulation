@@ -210,12 +210,8 @@ Contributions to improve the simulation are welcome! Areas for enhancement inclu
 
 Please feel free to submit issues, feature requests, or pull requests.
 
-### License
-
-This project is licensed under the BSD 3-Clause License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
-**_Made with ❤️ for the CTF community_**
+**_Made with love for the CTF community_**
 
 _Built to demystify Attack & Defense competitions_
