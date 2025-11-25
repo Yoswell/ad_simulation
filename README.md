@@ -28,6 +28,8 @@ This repository contains a web-based simulation tool designed to demonstrate and
 > [!TIP]
 > **Getting Started**: Open `index.html` in a modern web browser to launch the simulation. No server required - it's pure client-side JavaScript.
 
+---
+
 ### Repository Structure
 
 ```
@@ -41,6 +43,8 @@ ad_simulation/
 
 > [!NOTE]
 > **Navigation Tip**: The simulation is self-contained in a single HTML file with linked CSS and JS. Simply open `index.html` to run.
+
+---
 
 ### Simulation Features
 
