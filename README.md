@@ -210,11 +210,11 @@ Contributions to improve the simulation are welcome! Areas for enhancement inclu
 
 Please feel free to submit issues, feature requests, or pull requests.
 
+### License
+
+This project is licensed under the terms specified in the [LICENSE](LICENSE) file.
+
 ---
-
-License
-
-This project is licensed under the terms specified in the LICENSE file.
 
 **_Made with love by Vishok 👾_**
 
