@@ -212,6 +212,10 @@ Please feel free to submit issues, feature requests, or pull requests.
 
 ---
 
-**_Made with love for the CTF community_**
+License
 
-_Built to demystify Attack & Defense competitions_
+This project is licensed under the terms specified in the LICENSE file.
+
+**_Made with love by Vishok 👾_**
+
+_Built for the Attack/Defense CTF community_
